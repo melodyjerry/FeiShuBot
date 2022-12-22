@@ -1,7 +1,7 @@
 # FeiShuBot
 飞书机器人脚本仓库
 
-> 本人不是从事PyThon工作的，脚本也是一边查Python一边研究，前后看飞书的一些文档，花了大概一周时间，写了若干个脚本，现只将2个脚本迁移到这，其他脚本后续会继续完善。
+> 本人不是从事PyThon工作的，脚本也是一边查Python一边研究，前后看飞书的一些文档，花了大概五天时间（因为还要上班，是业余时间写的），写了若干个脚本，现只将2个脚本迁移到这，其他脚本后续会继续完善。
 
 目前主要实现的脚本为
 - 飞书机器人的封装，详见 [README_FsBot.md](./FsBot/README_FsBot.md)
@@ -13,7 +13,9 @@
 
 # 项目作者
 - MelodyJerry
-- http://melodyjerry.top/
+  - http://melodyjerry.top/
+  - https://melodyjerry.gitee.io/blog/
+  - https://www.cnblogs.com/melodyjerry/
 - 公众号：MelodyJerry是个直男程序员
 ![公众号](微信公众号.jpg)
 
