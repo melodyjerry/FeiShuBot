@@ -347,3 +347,4 @@ if __name__ == '__main__':
     main()
 
 # todo: 安全密钥签名校验gen_sign()方法有问题，会报sign match fail or timestamp is not within one hour from current time
+# todo: 更新详细的requirements.txt，删除不必要的依赖
