@@ -9,10 +9,15 @@
 
 ## 效果
 - 上班打卡提醒
+
 ![上班打卡提醒](上班打卡提醒.jpg)
+
 - 上班期间通知提醒
+
 ![](上班期间通知提醒.jpg)
+
 - 下班打卡提醒
+
 ![](下班打卡提醒.jpg)
 
 # 项目地址
@@ -25,5 +30,6 @@
   - https://melodyjerry.gitee.io/blog/
   - https://www.cnblogs.com/melodyjerry/
 - 公众号：MelodyJerry是个直男程序员
+
 ![公众号](微信公众号.jpg)
 
