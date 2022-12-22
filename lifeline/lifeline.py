@@ -1,5 +1,7 @@
 # -*- coding: utf8 -*-
 
+# 脚本来自MelodyJerry的支持
+
 import importlib 
 import sys
 importlib.reload(sys)

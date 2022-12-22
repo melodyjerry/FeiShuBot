@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # coding:utf-8
 
-# larkbot.py
+# 脚本来自MelodyJerry的支持
 
 import base64
 import hashlib
