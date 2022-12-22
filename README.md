@@ -7,6 +7,14 @@
 - 飞书机器人的封装，详见 [README_FsBot.md](./FsBot/README_FsBot.md)
 - 上下班及工资日提醒脚本，详见 [README_lifeline.md](./FsBot/README_lifeline.md)
 
+## 效果
+- 上班打卡提醒
+![上班打卡提醒](上班打卡提醒.jpg)
+- 上班期间通知提醒
+![](上班期间通知提醒.jpg)
+- 下班打卡提醒
+![](下班打卡提醒.jpg)
+
 # 项目地址
 - GitHub：https://github.com/melodyjerry/FeiShuBot.git
 - Gitee：https://gitee.com/melodyjerry/FeiShuBot.git
